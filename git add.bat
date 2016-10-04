@@ -1,5 +1,3 @@
-call git.exe init
-
 call git.exe add . 
 
 call git.exe status
